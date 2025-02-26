@@ -8,3 +8,4 @@ streamlit-autorefresh – for auto-refresh functionality
 
 
 pip install streamlit pandas numpy altair plotly streamlit-autorefresh
+pip install streamlit-autorefresh

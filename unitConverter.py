@@ -318,7 +318,7 @@ with col1:
                     formula = f"Conversion Factor: {conversion_factor:.6g}"
         
         st.markdown(f"""
-        <div style='background-color: #e3f2fd; padding: 15px; border-radius: 10px; margin-top: 20px;'>
+        <div style='background-color:rgb(174, 113, 22); padding: 15px; border-radius: 10px; margin-top: 20px;'>
             <h3 style='color: #1565c0; margin: 0;'>Conversion Formula</h3>
             <p style='font-size: 1.1rem; margin-top: 10px; font-family: monospace;'>{formula}</p>
         </div>
